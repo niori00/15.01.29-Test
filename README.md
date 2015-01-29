@@ -6,5 +6,5 @@ git config user.name " "
 git config user.email " "
 git commit
 gitk
-git add 
-
+git add <file>
+git reset HEAD <file>
